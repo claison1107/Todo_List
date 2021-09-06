@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+    <string name="hora">Hora</string>
+    <string name="data">Data</string>
+    <string name="titulo">Titulo</string>
+    <string name="descricao">Descricao</string>
+    <string name="editar">Editar</string>
+    <string name="delete">Delete</string>
+    <string name="ops_voc_n_o_possui_nenhuma_tarefa">Ops! Você não possui nenhuma tarefa</string>
+</resources>
